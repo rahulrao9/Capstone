@@ -1,0 +1,122 @@
+2024-11-14 21:20:13,795 - INFO - Starting plant photography process
+2024-11-14 21:20:13,795 - INFO - Processing location: {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:20:13,795 - INFO - Starting move action for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:20:43,816 - WARNING - Move action timed out for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:20:43,822 - INFO - Move action completed for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:20:43,822 - INFO - Starting photo action for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:21:13,834 - WARNING - Photo action timed out for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:21:13,851 - INFO - Photo action completed for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:21:13,851 - INFO - Moving to home
+2024-11-14 21:21:43,876 - WARNING - Move to home timed out for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:21:43,886 - INFO - Moved to home
+2024-11-14 21:21:43,889 - INFO - Plant photography process completed
+2024-11-14 21:32:40,401 - INFO - Starting plant photography process
+2024-11-14 21:32:40,401 - INFO - Processing location: {'x': 760, 'y': 710, 'z': 0}
+2024-11-14 21:32:40,401 - INFO - Starting move action for {'x': 760, 'y': 710, 'z': 0}
+Moving to plant at (760, 710, 0). Request ID: e1ff5ef7-a2a1-11ef-8429-e2373c13c9f2
+Successful request: e1ff5ef6-a2a1-11ef-bfdc-e2373c13c9f2
+Log: Moving to (760, 710, 0)
+Log: Retrying movement
+Log: Retrying movement
+Log: Retrying movement
+Log: Retrying movement
+Failed request: e1ff5ef7-a2a1-11ef-8429-e2373c13c9f2, Errors: ['Movement error. See logs for details.']
+Log: Retrying movement
+Log: Stall detected on Y axis
+Log: Failed to execute command: Movement error. See logs for details.
+2024-11-14 21:34:37,774 - INFO - Starting plant photography process
+2024-11-14 21:34:37,774 - INFO - Processing location: {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:34:37,774 - INFO - Starting move action for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:35:07,797 - WARNING - Move action timed out for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:35:07,803 - INFO - Move action completed for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:35:07,806 - INFO - Starting photo action for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:35:37,824 - WARNING - Photo action timed out for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:35:37,830 - INFO - Photo action completed for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:35:37,835 - INFO - Moving to home
+Moving robot to home position. Request ID: 4b119a49-a2a2-11ef-8517-e2373c13c9f2
+Successful request: c5fe5df3-353c-4c9d-8133-6e01adef3b8d
+Successful request: 4b119791-a2a2-11ef-b7b0-e2373c13c9f2
+Log: Finding home on all axes
+2024-11-14 21:35:57,225 - INFO - Starting plant photography process
+2024-11-14 21:35:57,225 - INFO - Processing location: {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:35:57,225 - INFO - Starting move action for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:36:27,249 - WARNING - Move action timed out for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:36:27,274 - INFO - Move action completed for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 21:36:27,274 - INFO - Starting photo action for {'x': 490, 'y': 140, 'z': 0}
+Taking photo. Request ID: 687c8e0e-a2a2-11ef-8385-e2373c13c9f2
+Successful request: 687b72ed-a2a2-11ef-9ab8-e2373c13c9f2
+Log: Taking photo
+Successful request: 687c8e0f-a2a2-11ef-aa08-e2373c13c9f2
+Log: The Lighting peripheral value is ON (digital)
+Successful request: 687c8e0e-a2a2-11ef-8385-e2373c13c9f2
+Log: Uploaded image: /tmp/images/1731600390.jpg
+2024-11-14 22:03:32,680 - INFO - Starting plant photography process
+2024-11-14 22:03:32,680 - INFO - Processing location: {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 22:03:32,680 - INFO - Starting move action for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 22:04:02,706 - WARNING - Process timed out for {'x': 490, 'y': 140, 'z': 0} with action move
+2024-11-14 22:04:02,714 - INFO - Move action completed for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 22:04:02,715 - INFO - Starting photo action for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 22:04:32,735 - WARNING - Process timed out for {'x': 490, 'y': 140, 'z': 0} with action photo
+2024-11-14 22:04:32,741 - INFO - Photo action completed for {'x': 490, 'y': 140, 'z': 0}
+2024-11-14 22:04:32,741 - INFO - Moving to home
+2024-11-14 22:05:02,750 - WARNING - Process timed out for {'x': 490, 'y': 140, 'z': 0} with action home
+2024-11-14 22:05:02,759 - INFO - Moved to home
+2024-11-14 22:05:02,759 - INFO - Plant photography process completed
+2024-11-14 22:11:53,743 - INFO - Starting kill mechanism
+2024-11-14 22:11:53,743 - INFO - Processing location: {'X': 466, 'Y': 255, 'Z': -300}
+2024-11-14 22:11:53,743 - INFO - Starting move action for {'X': 466, 'Y': 255, 'Z': -300}
+2024-11-14 22:11:54,159 - INFO - Starting kill mechanism
+2024-11-14 22:11:54,159 - INFO - Processing location: {'X': 466, 'Y': 255, 'Z': -300}
+2024-11-14 22:11:54,159 - INFO - Starting move action for {'X': 466, 'Y': 255, 'Z': -300}
+2024-11-14 22:11:54,208 - INFO - Move action completed for {'X': 466, 'Y': 255, 'Z': -300}
+2024-11-14 22:11:54,208 - INFO - Weeds eliminated
+2024-11-14 22:16:02,250 - INFO - Starting plant photography process
+2024-11-14 22:16:02,251 - INFO - Processing location: {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:16:02,251 - INFO - Starting move action for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:16:32,265 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action move
+2024-11-14 22:16:32,277 - INFO - Move action completed for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:16:32,277 - INFO - Starting photo action for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:17:02,293 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action photo
+2024-11-14 22:17:02,300 - INFO - Photo action completed for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:17:02,300 - INFO - Moving to home
+2024-11-14 22:17:32,306 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action home
+2024-11-14 22:17:32,306 - INFO - Moved to home
+2024-11-14 22:17:32,306 - INFO - Plant photography process completed
+2024-11-14 22:25:25,834 - INFO - Starting plant photography process
+2024-11-14 22:25:25,834 - INFO - Processing location: {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:25:25,834 - INFO - Starting move action for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:25:55,860 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action move
+2024-11-14 22:25:55,876 - INFO - Move action completed for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:25:55,884 - INFO - Starting photo action for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:26:25,900 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action photo
+2024-11-14 22:26:25,911 - INFO - Photo action completed for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:26:25,911 - INFO - Moving to home
+2024-11-14 22:26:55,924 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action home
+2024-11-14 22:26:55,941 - INFO - Moved to home
+2024-11-14 22:26:55,941 - INFO - Plant photography process completed
+2024-11-14 22:29:13,400 - INFO - Starting plant photography process
+2024-11-14 22:29:13,400 - INFO - Processing location: {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:29:13,400 - INFO - Starting move action for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:29:43,417 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action move
+2024-11-14 22:29:43,426 - INFO - Move action completed for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:29:43,426 - INFO - Starting photo action for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:30:13,445 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action photo
+2024-11-14 22:30:13,461 - INFO - Photo action completed for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:30:13,461 - INFO - Moving to home
+2024-11-14 22:30:43,468 - WARNING - Process timed out for {'x': 1100, 'y': 210, 'z': 0} with action home
+2024-11-14 22:30:43,476 - INFO - Moved to home
+2024-11-14 22:30:43,476 - INFO - Plant photography process completed
+2024-11-14 22:35:02,185 - INFO - Starting kill mechanism
+2024-11-14 22:35:02,185 - INFO - Processing location: {'X': 1046, 'Y': 124, 'Z': 0}
+2024-11-14 22:35:02,185 - INFO - Starting move action for {'X': 1046, 'Y': 124, 'Z': 0}
+2024-11-14 22:35:02,572 - INFO - Starting kill mechanism
+2024-11-14 22:35:02,572 - INFO - Processing location: {'X': 1046, 'Y': 124, 'Z': 0}
+2024-11-14 22:35:02,572 - INFO - Starting move action for {'X': 1046, 'Y': 124, 'Z': 0}
+2024-11-14 22:35:02,643 - INFO - Move action completed for {'X': 1046, 'Y': 124, 'Z': 0}
+2024-11-14 22:35:02,643 - INFO - Weeds eliminated
+2024-11-14 22:38:59,285 - INFO - Starting plant photography process
+2024-11-14 22:38:59,285 - INFO - Processing location: {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 22:38:59,285 - INFO - Starting move action for {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 23:13:37,535 - INFO - Starting plant photography process
+2024-11-14 23:13:37,535 - INFO - Processing location: {'x': 1100, 'y': 210, 'z': 0}
+2024-11-14 23:13:37,535 - INFO - Starting move action for {'x': 1100, 'y': 210, 'z': 0}

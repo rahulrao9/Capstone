@@ -1,0 +1,75 @@
+2024-08-25 13:50:06,852 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-25 13:50:08,333 - INFO - File '2024-08-01_11-37-03.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:50:08,726 - INFO - File '2024-08-01_11-37-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:50:09,102 - INFO - File '2024-08-01_11-37-41.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:50:09,494 - INFO - File '2024-08-01_11-37-52.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:50:09,887 - INFO - File '2024-08-01_11-38-06.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:50:10,261 - INFO - File '2024-08-01_11-38-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:50:10,645 - INFO - File '2024-08-01_11-38-38.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:50:11,009 - INFO - File '2024-08-01_11-38-55.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:30,341 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-25 13:54:31,816 - INFO - File '2024-08-01_11-37-03.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:32,209 - INFO - File '2024-08-01_11-37-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:32,601 - INFO - File '2024-08-01_11-37-41.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:32,985 - INFO - File '2024-08-01_11-37-52.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:33,362 - INFO - File '2024-08-01_11-38-06.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:33,744 - INFO - File '2024-08-01_11-38-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:34,117 - INFO - File '2024-08-01_11-38-38.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:34,527 - INFO - File '2024-08-01_11-38-55.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-25 13:54:37,057 - INFO - app.log file uploaded successfully.
+2024-08-25 14:19:35,076 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-25 14:19:40,347 - INFO - Backed up file: 2024-08-01_11-37-03.png
+2024-08-25 14:19:43,641 - INFO - Backed up file: 2024-08-01_11-37-26.png
+2024-08-25 14:19:46,786 - INFO - Backed up file: 2024-08-01_11-37-41.png
+2024-08-25 14:19:49,949 - INFO - Backed up file: 2024-08-01_11-37-52.png
+2024-08-25 14:19:53,119 - INFO - Backed up file: 2024-08-01_11-38-06.png
+2024-08-25 14:19:56,267 - INFO - Backed up file: 2024-08-01_11-38-26.png
+2024-08-25 14:19:59,592 - INFO - Backed up file: 2024-08-01_11-38-38.png
+2024-08-25 14:20:02,888 - INFO - Backed up file: 2024-08-01_11-38-55.png
+2024-08-25 14:20:05,296 - INFO - app.log file updated successfully.
+2024-08-26 21:34:39,174 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-26 21:34:41,110 - INFO - File '2024-08-01_11-37-03.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:41,619 - INFO - File '2024-08-01_11-37-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:42,044 - INFO - File '2024-08-01_11-37-41.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:42,547 - INFO - File '2024-08-01_11-37-52.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:43,154 - INFO - File '2024-08-01_11-38-06.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:43,580 - INFO - File '2024-08-01_11-38-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:43,972 - INFO - File '2024-08-01_11-38-38.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:44,494 - INFO - File '2024-08-01_11-38-55.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:34:47,389 - INFO - app.log file updated successfully.
+2024-08-26 21:36:24,244 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-26 21:36:25,971 - INFO - File '2024-08-01_11-37-03.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:26,384 - INFO - File '2024-08-01_11-37-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:27,094 - INFO - File '2024-08-01_11-37-41.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:27,490 - INFO - File '2024-08-01_11-37-52.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:28,022 - INFO - File '2024-08-01_11-38-06.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:28,524 - INFO - File '2024-08-01_11-38-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:29,035 - INFO - File '2024-08-01_11-38-38.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:29,464 - INFO - File '2024-08-01_11-38-55.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:36:32,234 - INFO - farmbot_run.log file uploaded successfully.
+2024-08-26 21:38:35,415 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-26 21:38:37,148 - INFO - File '2024-08-01_11-37-03.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:37,656 - INFO - File '2024-08-01_11-37-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:38,167 - INFO - File '2024-08-01_11-37-41.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:38,675 - INFO - File '2024-08-01_11-37-52.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:39,225 - INFO - File '2024-08-01_11-38-06.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:39,702 - INFO - File '2024-08-01_11-38-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:40,115 - INFO - File '2024-08-01_11-38-38.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:40,528 - INFO - File '2024-08-01_11-38-55.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:38:43,490 - INFO - farmbot_run.log file updated successfully.
+2024-08-26 21:38:45,930 - INFO - daily_tasks.log file uploaded successfully.
+2024-08-26 21:40:04,576 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-08-26 21:40:06,127 - INFO - File '2024-08-01_11-37-03.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:06,624 - INFO - File '2024-08-01_11-37-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:07,045 - INFO - File '2024-08-01_11-37-41.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:07,460 - INFO - File '2024-08-01_11-37-52.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:07,870 - INFO - File '2024-08-01_11-38-06.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:08,274 - INFO - File '2024-08-01_11-38-26.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:08,798 - INFO - File '2024-08-01_11-38-38.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:09,310 - INFO - File '2024-08-01_11-38-55.png' already exists in the '2024-08-01' folder. Skipping upload.
+2024-08-26 21:40:11,981 - INFO - farmbot_run.log file updated successfully.
+2024-08-26 21:40:14,295 - INFO - drive.log file uploaded successfully.
+2024-11-24 18:53:01,655 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-24 18:53:07,392 - INFO - Backed up file: 2024-11-14_22-29-51_x1097_y210_z-3.png
+2024-11-24 18:53:09,862 - INFO - farmbot_run.log file updated successfully.
+2024-11-24 18:53:12,184 - INFO - drive.log file updated successfully.
