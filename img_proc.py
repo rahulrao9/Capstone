@@ -217,7 +217,7 @@ weed_color = (0, 0, 255)   # Red color (weed)
 crop_color = (0, 255, 0)   # Green color (crop)
 background_color = (255, 0, 0)  # Blue color (background)
 yellow_color = (0, 255, 255)  # Yellow color for testing placement
-radius_cm = 8   # Radius of circular weed-removal object in cm
+radius_cm = 5   # Radius of circular weed-removal object in cm
 pixel_size_cm = 0.1  # Assume each pixel represents 0.375 cm
 r_pixels = int(radius_cm / pixel_size_cm)
 
@@ -293,6 +293,8 @@ for filename in os.listdir(segment_path):
 
 
 filename = os.path.join(HOME, "res.json")
+
+ress = {"x": 500, "y": 1105, "z": 0}
 
 # Write the data to a JSON file
 with open(filename, 'w') as file:

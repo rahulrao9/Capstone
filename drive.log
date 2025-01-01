@@ -73,3 +73,10 @@
 2024-11-24 18:53:07,392 - INFO - Backed up file: 2024-11-14_22-29-51_x1097_y210_z-3.png
 2024-11-24 18:53:09,862 - INFO - farmbot_run.log file updated successfully.
 2024-11-24 18:53:12,184 - INFO - drive.log file updated successfully.
+2024-11-25 12:38:15,601 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-25 12:38:24,275 - INFO - Backed up file: 2024-11-25_10-27-05_x500_y0_z-2.png
+2024-11-25 12:38:32,170 - INFO - Backed up file: 2024-11-25_10-33-44_x490_y0_z-2.png
+2024-11-25 12:39:24,259 - INFO - Backed up file: 2024-11-25_11-17-54_x497_y3_z-3.png
+2024-11-25 12:39:31,295 - INFO - Backed up file: 2024-11-25_11-21-21_x500_y958_z0.png
+2024-11-25 12:39:34,220 - INFO - farmbot_run.log file updated successfully.
+2024-11-25 12:39:37,171 - INFO - drive.log file updated successfully.

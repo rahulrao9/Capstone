@@ -1,12 +1,12 @@
 ﻿**********************
 Windows PowerShell transcript start
-Start time: 20241114231336
+Start time: 20241125112055
 Username: RAHULRAOL1\rahul
 RunAs User: RAHULRAOL1\rahul
 Configuration Name: 
 Machine: RAHULRAOL1 (Microsoft Windows NT 10.0.22631.0)
 Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\rahul\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
-Process ID: 4216
+Process ID: 11948
 PSVersion: 5.1.22621.4391
 PSEdition: Desktop
 PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.4391
@@ -17,5 +17,12 @@ PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is C:\PES\Capstone\code\app\daily_tasks.log
-Starting daily tasks at 11/14/2024 23:13:36
+Starting daily tasks at 11/25/2024 11:20:55
 Running main.py...
+
+Running downlatestimg.ps1...
+Number of objects to download: 1
+Downloading: 2024-11-25_11-21-21_x500_y958_z0.png
+Successfully downloaded: 2024-11-25_11-21-21_x500_y958_z0.png (Coordinates: X:500, Y:958, Z:0)
+Download complete. Downloaded  images.
+]633;D;0]633;A]633;P;Cwd=C:\x5cPES\x5cCapstone\x5ccode\x5cappPS C:\PES\Capstone\code\app> ]633;B
